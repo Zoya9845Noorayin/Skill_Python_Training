@@ -38,7 +38,7 @@ a=eval(input('enter:'))
 print(a,type(a))
 
                
-    if else#
+    #if else#
 a=int(input('enter:'))
 if a%2==0:
     print("the number is even")
@@ -47,7 +47,7 @@ else:
     print("the number is odd")
 
 
-//check wher the list length is 5 or not//
+#//check wher the list length is 5 or not//
 a=eval(input("enter"))
 print(a)
 print(len(a))
